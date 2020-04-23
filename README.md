@@ -2,7 +2,7 @@
 
 <div align=center><img src="https://lei-picture.oss-cn-beijing.aliyuncs.com/img/20200423192255.png" width="350"></div>
 
-学习计量经济学过程中总结的笔记，主要包括**原理讲解与实现、python第三方库估计、matlab实现**三部分。
+学习计量经济学过程中总结的笔记（更新ing...），主要包括**原理讲解与实现、python第三方库估计、matlab实现**三部分。
 
 由于本人能力有限，欢迎各位指正批评。
 
@@ -23,3 +23,30 @@
 
 * [古典线性回归](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/古典线性回归.ipynb)
 
+* 金融时间序列
+
+  * [收益率概念与平稳性](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/收益率概念与平稳性.ipynb)
+
+  * [自回归模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/自回归模型.ipynb)
+
+  * [移动平均(MA)模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/移动平均(MA)模型.ipynb)
+
+  * [ARMA模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/ARMA模型.ipynb)
+
+  * [自回归分布滞后模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/自回归分布滞后模型.ipynb)
+
+  * [VAR模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/VAR模型.ipynb)
+
+  * [Granger因果检验](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/Granger因果检验.ipynb)
+
+  * [ARCH模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/ARCH模型.ipynb)
+
+  * [GARCH模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/GARCH模型.ipynb)
+
+* 分位数回归
+
+  * [基础概念](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/基础概念.ipynb)
+
+  * [分位数Granger因果检验](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数Granger因果检验.ipynb)
+
+  * [分位数VAR模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数VAR模型.ipynb)
