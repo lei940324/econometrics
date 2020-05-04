@@ -50,3 +50,7 @@
   * [分位数Granger因果检验](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数Granger因果检验.ipynb)
 
   * [分位数VAR模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数VAR模型.ipynb)
+
+## License
+
+[MIT](https://github.com/lei940324/econometrics/blob/master/LICENSE) © 热心市民石头
