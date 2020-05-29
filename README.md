@@ -44,13 +44,13 @@
 
   * [收益率概念与平稳性](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/收益率概念与平稳性.ipynb)
 
-  * [自回归模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/自回归模型.ipynb)
+  * [自回归(AR)模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/自回归模型.ipynb)
 
   * [移动平均(MA)模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/移动平均(MA)模型.ipynb)
 
   * [ARMA 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/ARMA模型.ipynb)
 
-  * [自回归分布滞后模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/自回归分布滞后模型.ipynb)
+  * [自回归分布滞后(ADL)模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/自回归分布滞后模型.ipynb)
 
   * [VAR 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/VAR模型.ipynb)
 
