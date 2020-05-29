@@ -1,10 +1,21 @@
 # 陈强高级计量经济学笔记
 
-<div align=center><img src="https://lei-picture.oss-cn-beijing.aliyuncs.com/img/20200423192255.png" width="350"></div>
+<div align=center><img src="https://lei-picture.oss-cn-beijing.aliyuncs.com/img/20200423192255.png" width="250"></div>
 
-学习计量经济学过程中总结的笔记（更新 ing...），主要包括**原理讲解与实现、python 第三方库估计、matlab 实现**三部分。由于本人能力有限，欢迎各位指正批评。
+学习计量经济学过程中总结的笔记（更新 ing...）
 
-> 该笔记已征得陈强老师的本人同意，上传至网络供各位参考。
+* **主要内容：**
+
+    * 古典线性回归
+    * 金融时间序列分析
+    * 分位数回归
+
+* **笔记架构：**
+* 原理讲解与实现
+    * python 第三方库估计
+    * matlab 实现
+
+> 该笔记已征得陈强老师的本人同意，由于本人能力有限，欢迎各位指正批评。
 
 <a href="https://www.python.org/downloads/"><img  src="https://img.shields.io/badge/python-3.6%2B-brightgreen"></a>
 <a href="https://github.com/bashtage/arch"><img src="https://img.shields.io/badge/arch-4.13-red"></a>
