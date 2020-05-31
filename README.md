@@ -4,6 +4,8 @@
 
 学习计量经济学过程中总结的笔记（更新 ing...）
 
+文中 python 代码推荐使用 anaconda 运行。
+
 * **笔记架构：**
 	* 原理讲解与实现
   
@@ -54,8 +56,11 @@
   * [分位数 Granger 因果检验](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数Granger因果检验.ipynb)
 
   * [分位数 VAR 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数VAR模型.ipynb)
+
 * DEA 方法
+
   * CCR 模型
+
   * SBM-ML 模型
 
 ## Author
