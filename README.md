@@ -4,16 +4,6 @@
 
 学习计量经济学过程中总结的笔记（更新 ing...）
 
-* **主要内容：**
-
-    * 基础入门
-
-    * 古典线性回归
-
-    * 金融时间序列分析
-
-    * 分位数回归
-
 * **笔记架构：**
 	* 原理讲解与实现
   
@@ -37,9 +27,7 @@
 ## 目录
 
 * [基础入门](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/基础入门.ipynb)
-
 * [古典线性回归](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/古典线性回归.ipynb)
-
 * 金融时间序列
 
   * [收益率概念与平稳性](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/收益率概念与平稳性.ipynb)
@@ -59,7 +47,6 @@
   * [ARCH 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/ARCH模型.ipynb)
 
   * [GARCH 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/金融时间序列/GARCH模型.ipynb)
-
 * 分位数回归
 
   * [基础概念](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/基础概念.ipynb)
@@ -67,6 +54,19 @@
   * [分位数 Granger 因果检验](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数Granger因果检验.ipynb)
 
   * [分位数 VAR 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/分位数回归/分位数VAR模型.ipynb)
+* DEA 方法
+  * CCR 模型
+  * SBM-ML 模型
+
+## Author
+
+中国海洋大学经济学研究生，热爱计量、python、matlab。
+
+## Reference
+
+* 《陈强高级计量经济学及 Stata 应用》（第二版）
+* 《金融时间序列分析》（第三版）
+* Eviews 帮助文件
 
 ## License
 
