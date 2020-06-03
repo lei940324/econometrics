@@ -59,7 +59,7 @@
 
 * DEA 方法
 
-  * [CCR 模型](DEA方法/CCR模型.ipynb)
+  * [CCR 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/DEA方法/CCR模型.ipynb)
 
   * SBM-ML 模型
 
@@ -67,21 +67,26 @@
 
 中国海洋大学经济学研究生，热爱计量、python、matlab。
 
+## contact
+
+1. 欢迎任何有益的建议或想法，可邮件 ([547222786@qq.com](mailto:547222786@qq.com)) 交流！
+2. 不免有错误，欢迎提 Issues！
+
 ## Reference
 
 * **书籍**
+  * Time Series Analysis
   * 陈强高级计量经济学及 Stata 应用（第二版）
   * 金融时间序列分析（第三版）
-  * Time Series Analysis
 * **文献**
-  * Koenker & Machado1999 Inference QuantileReg
   * Asymmetric Least Squares Estimation and Testing
+  * Goodness of Fit and Related Inference Processes for Quantile Regression
   * Tests-for-Parameter-Instability-and-Structural-Change-With-Unknown-Change-Point
   * VAR for VaR: Measuring tail dependence using multivariate regression quantiles
 * **其他**
   * Eviews 帮助文件
   * 张晓峒分位数回归讲义
-  * 应用 DEA 方法对经济体效率的评价
+  * 应用 DEA 方法对经济体效率的评价 PPT 文件
 
 ## License
 
