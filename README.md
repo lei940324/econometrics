@@ -59,7 +59,7 @@
 
 * DEA 方法
 
-  * CCR 模型
+  * [CCR 模型](DEA方法/CCR模型.ipynb)
 
   * SBM-ML 模型
 
@@ -69,9 +69,19 @@
 
 ## Reference
 
-* 《陈强高级计量经济学及 Stata 应用》（第二版）
-* 《金融时间序列分析》（第三版）
-* Eviews 帮助文件
+* **书籍**
+  * 陈强高级计量经济学及 Stata 应用（第二版）
+  * 金融时间序列分析（第三版）
+  * Time Series Analysis
+* **文献**
+  * Koenker & Machado1999 Inference QuantileReg
+  * Asymmetric Least Squares Estimation and Testing
+  * Tests-for-Parameter-Instability-and-Structural-Change-With-Unknown-Change-Point
+  * VAR for VaR: Measuring tail dependence using multivariate regression quantiles
+* **其他**
+  * Eviews 帮助文件
+  * 张晓峒分位数回归讲义
+  * 应用 DEA 方法对经济体效率的评价
 
 ## License
 
