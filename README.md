@@ -63,7 +63,7 @@
   
   * [BCC 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/DEA方法/BCC模型.ipynb)
   
-  * SBM-ML 模型
+  * [SBM-ML 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/DEA方法/SBM-ML模型.ipynb)
 
 ## Author
 
@@ -85,6 +85,8 @@
   * Goodness of Fit and Related Inference Processes for Quantile Regression
   * Tests-for-Parameter-Instability-and-Structural-Change-With-Unknown-Change-Point
   * VAR for VaR: Measuring tail dependence using multivariate regression quantiles
+  * 分位数向量自回归分布滞后模型及脉冲响应分析
+  * 命令控制与可交易环境政策下的碳排放强度减排效应
 * **其他**
   * Eviews 帮助文件
   * 张晓峒分位数回归讲义
