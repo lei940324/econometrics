@@ -63,7 +63,7 @@
   
   * [BCC 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/DEA方法/BCC模型.ipynb)
   
-  * [SBM-ML 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/DEA方法/SBM-ML模型.ipynb)
+  * [SBM-ML 模型](https://nbviewer.jupyter.org/github/lei940324/econometrics/blob/master/DEA方法/SBM模型.ipynb)
 
 ## Author
 
